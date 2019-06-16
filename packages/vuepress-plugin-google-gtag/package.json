@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-google-gtag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "google global site tag(gtag.js) plugin for vuepress",
   "main": "index.js",
   "repository": {
