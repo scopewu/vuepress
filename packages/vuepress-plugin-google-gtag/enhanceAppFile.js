@@ -2,7 +2,7 @@
 
 export default ({ router }) => {
 // Google analytics integration
-  if (process.env.NODE_ENV === 'development' && GA_MEASUREMENT_ID && typeof window !== 'undefined') {
+  if (process.env.NODE_ENV === 'production' && GA_MEASUREMENT_ID && typeof window !== 'undefined') {
     (function (i, s, o, g, r, a, m) {
       i['dataLayer'] = i['dataLayer'] || []
       i[r] = i[r] || function () {
