@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/scopewu/vuepress/issues"
   },
-  "homepage": "https://github.com/scopewu/vuepress/packages/plugin-google-gtag#readme",
+  "homepage": "https://github.com/scopewu/vuepress/tree/master/packages/vuepress-plugin-google-gtag",
   "peerDependencies": {
     "vuepress": "^1.0.0"
   }
