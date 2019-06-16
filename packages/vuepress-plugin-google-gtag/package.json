@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-plugin-google-gtag",
+  "version": "1.0.0",
+  "description": "google global site tag(gtag.js) plugin for vuepress",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scopewu/vuepress.git",
+    "directory": "packages/vuepress-plugin-google-gtag"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "generator",
+    "google gtag",
+    "gtag"
+  ],
+  "author": "scope.wu <scope.wu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scopewu/vuepress/issues"
+  },
+  "homepage": "https://github.com/scopewu/vuepress/packages/plugin-google-gtag#readme",
+  "peerDependencies": {
+    "vuepress": "^1.0.0"
+  }
+}
