@@ -1,0 +1,32 @@
+{
+  "name": "vuepress-theme-wenjun.me",
+  "version": "0.1.0",
+  "description": "The theme of wenjun.me",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scopewu/vuepress.git",
+    "directory": "packages/vuepress-theme-wenjun.me"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "theme",
+    "vuepress-theme",
+    "wenjun.me"
+  ],
+  "author": "scope.wu <scope.wu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scopewu/vuepress/issues"
+  },
+  "homepage": "https://github.com/scopewu/vuepress/tree/master/packages/vuepress-theme-wenjun.me",
+  "peerDependencies": {
+    "vuepress": "^1.0.0"
+  },
+  "dependencies": {
+    "@vuepress/plugin-nprogress": "^1.2.0",
+    "lodash.chunk": "^4.2.0",
+    "vuepress-plugin-container": "^2.0.2"
+  }
+}
